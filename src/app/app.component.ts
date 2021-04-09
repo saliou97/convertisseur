@@ -62,3 +62,6 @@ export class AppComponent {
     this.convert(baseFinded?.value)
   }
 }
+/* 
+lookin a way to convert this javascript files to typescript files.
+*/
